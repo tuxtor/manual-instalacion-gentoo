@@ -5,6 +5,7 @@ Información de Versión
 ======================
 * Ultima actualización - 27/03/2013 
 * Versión - 0.2.1 
+* Contacto - tuxtor@shekalug.org
 
 Control de cambios
 ==================
@@ -558,6 +559,7 @@ Despues de esto un Gentoo bien configurado puede tener la siguiente apariencia:
 
 ![Gentoo Configurado](gentoofinal.png "Gentoo Final")
  
+Si este manual les ha sido de ayuda no duden en contactarme ya sea mediante mi email o por IRC en el canal #gentoo-es
 
 
 [0]: http://www.gentoo.org/doc/es/handbook/handbook-amd64.xml  "Gentoo Handbook"
