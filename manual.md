@@ -63,7 +63,7 @@ El parametro /dev/sda es opcional si solo contamos con un unico disco duro y dep
 
 * /dev/sda1 - /boot - 100MB - ext2
 * /dev/sda2 - /swap - 125% de la memoria RAM si tenemos más de 2GB, el doble de la memoria ram si tenemos menos - swap
-* /dev/sda3 - / - Minimo 3000 MB, idealmente 2000 MB - ext4
+* /dev/sda3 - / - Minimo 3000 MB, idealmente 20000 MB - ext4
 * /dev/sda4 - /home - Resto de espacio libre - ext4
 
 Aplicado en un disco duro, tendra mas o menos la apariencia mostrada en la figura \ref{cfdisk}
