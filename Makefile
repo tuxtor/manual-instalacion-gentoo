@@ -4,7 +4,7 @@ all:
 	$(PAN) manual.md -o index.html
 
 view:
-	$(PAN) -H header.tex manual.md -o manual.pdf&&evince resume.pdf
+	$(PAN) -H header.tex manual.md -o manual.pdf&&evince manual.pdf
 
 html:
 	$(PAN) manual.md -o index.html
