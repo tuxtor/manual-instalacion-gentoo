@@ -194,7 +194,7 @@ Presionamos control+O para guardar y control+X para salir, ahora todo ha quedado
 
 Paso 6 - Seleccionando nuestros orígenes de descarga
 ====================================================
-Gentoo descargara el código fuente desde internet, para lo cual disponibiliza algunos mirrors diseñados para esto, aunque este paso es opcional es bueno que escojamos desde donde Gentoo debe descargar los paquetes, principalmente si nuestro pais tiene mirros disponibles. Mediante mirror select podemos elegir el(los) mirror(s) desde donde Gentoo  descargara, y mediante una tubería >> vaciarlo en nuestro archivo make.conf del paso anterior.
+Gentoo descargara el código fuente desde internet, para lo cual disponibiliza algunos mirrors diseñados para esto, aunque este paso es opcional es bueno que escojamos desde donde Gentoo debe descargar los paquetes, principalmente si nuestro pais tiene mirrors disponibles. Mediante mirror select podemos elegir el(los) mirror(s) desde donde Gentoo  descargara, y mediante una tubería >> vaciarlo en nuestro archivo make.conf del paso anterior.
 
 		# mirrorselect -i -o >> /mnt/gentoo/etc/portage/make.conf
 
